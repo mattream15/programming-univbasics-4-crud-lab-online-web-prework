@@ -22,12 +22,13 @@ remove_element_from_end_of_array(array).pop( "Stocker" )
 end
 
 def remove_element_from_start_of_array(array)
-remove_element_from_start_of_array(array) = ["Kal", Sam", "Anthony", "Lance", "Matt"]
+remove_element_from_start_of_array(array) = ["Kal", "Sam", "Anthony", "Lance", "Matt"]
 remove_element_from_start_of_array(array).shift( "Kal" )
 end
 
 def retrieve_element_from_index(array, index_number)
-
+retrieve_element_from_index(array, index_number) =  ["Sam", "Anthony", "Lance", "Matt"]
+retrieve_element_from_index(array, index_number)
 end
 
 def retrieve_first_element_from_array(array)

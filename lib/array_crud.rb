@@ -6,8 +6,8 @@ def create_an_array
 create_an_array = ["Sam", "Anthony", "Lance", "Matt"]
 end
 
-def add_element_to_end_of_array
-  add_an_element_to_end_of_array = ["Sam", "Anthony", "Lance", "Matt"]
+def add_element_to_end_of_array(array, element)
+  add_an_element_to_end_of_array(array, element) = ["Sam", "Anthony", "Lance", "Matt"]
 add_an_element_to_end_of_array.push( "Stocker" )
 end
 
